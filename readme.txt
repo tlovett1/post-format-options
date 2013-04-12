@@ -15,7 +15,9 @@ Easily disable post formats or allow certain roles access to only certain format
 Post Format Options is a simple plugin that allows administrators to granularly manage post formats.
 
 * Completely disable post format usage. This will force everyone to use the standard format and make your post UI look like the pre-3.6 UI.
-* Allow certain roles access to only certain formats. For example, one might only want the video post format available to contributors and up.
+* Allow certain roles access to only certain formats. For example, one might only want the video post format available to contributors and up (Coming soon!).
+
+** This plugin requires at least WordPress 3.6!
 
 == Installation ==
 
